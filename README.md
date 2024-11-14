@@ -1,5 +1,7 @@
 # Reproduce Kotlin Native Regression
 
+Reproducer for: https://github.com/quarkusio/quarkus/issues/44472
+
 Native tests fail:
 
 ```shell script
